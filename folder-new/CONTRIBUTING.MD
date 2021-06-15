@@ -1,4 +1,4 @@
-# contribute instruction
+# Contribute Instruction
 
 Hellow, triplification contributors! 
 
