@@ -17,7 +17,7 @@ https://docs.github.com/en/github/getting-started-with-github/quickstart/github-
 - (git status)
 - git add -A
 - git status
-- git commit -m 'editing files & creating files"
+- git commit -m 'editing files & creating files'
 - git push origin reorganize
 
 
